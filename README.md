@@ -30,4 +30,3 @@ Beginners to advance level concepts cover
    Bloc : It means business logic component i.e used to manage the state. 
    Event : It's used for user activities or other actions that can alter the application's state. 
    copyWith : It's used for create new instance of class or value could be changed.
-3. 

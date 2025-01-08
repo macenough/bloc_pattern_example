@@ -1,5 +1,4 @@
 import 'package:bloc/bloc.dart';
-import 'package:meta/meta.dart';
 
 import 'counter_event.dart';
 import 'counter_state.dart';
